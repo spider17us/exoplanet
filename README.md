@@ -19,6 +19,7 @@ Assumptions
 Directory Structure
 --------------
 
+```
 exoplanet
   |--lib
   |   |--data_loader.rb
@@ -34,13 +35,14 @@ exoplanet
   |   |--exoplanets.json
   |
   |--planet-start.rb
+```
 
 
 
 Execution Instructions
 --------------
 
-1. Make sure you are in the explanet directory.
+1. Make sure you are in the exoplanet directory.
 2. Run ruby command:  ruby planet-start.rb
 
 
