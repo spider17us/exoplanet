@@ -63,7 +63,7 @@ Docker Instruction
 3. The above command should create an image with image id: Successfully built <image_id>
 3. To run the image in the docker container: docker run <image_id>
 
-,,,
+```
 exoplanet % docker build .
 Sending build context to Docker daemon  2.739MB
 Step 1/5 : FROM ruby:alpine
